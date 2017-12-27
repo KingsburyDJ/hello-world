@@ -1,2 +1,2 @@
 # hello-world
-first repo
+David here. Setting up first repo
